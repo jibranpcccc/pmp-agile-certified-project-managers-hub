@@ -4,10 +4,17 @@
     <title>PMP &amp; Agile Certified Project Managers Hub</title>
     <link>https://pmp-agile-certified-project-managers-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 11:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:21:30 GMT</lastBuildDate>
     <atom:link href="https://pmp-agile-certified-project-managers-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://pmp-agile-certified-project-managers-hub.netlify.app/#pmp-agile-certified-project-managers-hub-forum-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:21:30 GMT</pubDate>
+      <description>Newly verified community added to PMP &amp; Agile Certified Project Managers Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>PMP &amp; Agile Certified Project Managers Hub Initial Release</title>
       <link>https://pmp-agile-certified-project-managers-hub.netlify.app/</link>
       <pubDate>Wed, 16 Sep 2026 11:02:16 GMT</pubDate>
